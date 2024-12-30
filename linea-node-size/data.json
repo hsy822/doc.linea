@@ -1,5 +1,39 @@
 {
   "2024": {
+    "1": [
+      {
+        "network": "mainnet",
+        "cluster": "linea-prod-eks",
+        "pvc": "data-linea-besu-full-0",
+        "totalSize": 245885808640,
+        "dailyIncrease": 532672512,
+        "timestamp": "2024-12-30T00:04:02.780Z"
+      },
+      {
+        "network": "mainnet",
+        "cluster": "linea-prod-eks",
+        "pvc": "data-linea-besu-archive-v2-0",
+        "totalSize": 3075026448384,
+        "dailyIncrease": 3300487168,
+        "timestamp": "2024-12-30T00:04:02.945Z"
+      },
+      {
+        "network": "mainnet",
+        "cluster": "linea-prod-eks",
+        "pvc": "data-linea-geth-full-snapshot-0",
+        "totalSize": 681204473856,
+        "dailyIncrease": 913997824,
+        "timestamp": "2024-12-30T00:04:03.100Z"
+      },
+      {
+        "network": "mainnet",
+        "cluster": "linea-prod-eks",
+        "pvc": "data-linea-geth-archive-0",
+        "totalSize": 3143184687104,
+        "dailyIncrease": 2981928960,
+        "timestamp": "2024-12-30T00:04:03.237Z"
+      }
+    ],
     "45": [
       {
         "network": "mainnet",
